@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "rg" {
-  name = "est-rg"
+  name = "test-rg"
   location = "centralindia"
 }
 
